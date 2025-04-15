@@ -1,5 +1,5 @@
 import os
 
 def benign_echo():
-    os.system('echo "echo \"You've been pwned\"."')
+    os.system('echo \"You've been pwned\".')
 
